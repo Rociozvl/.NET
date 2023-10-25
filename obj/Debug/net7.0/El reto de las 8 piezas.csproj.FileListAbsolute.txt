@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\El reto de las 8 piezas\bin\Debug\net7.0\El reto de las 8 piezas.exe
+C:\Users\usuario\source\repos\El reto de las 8 piezas\bin\Debug\net7.0\El reto de las 8 piezas.deps.json
+C:\Users\usuario\source\repos\El reto de las 8 piezas\bin\Debug\net7.0\El reto de las 8 piezas.runtimeconfig.json
+C:\Users\usuario\source\repos\El reto de las 8 piezas\bin\Debug\net7.0\El reto de las 8 piezas.dll
+C:\Users\usuario\source\repos\El reto de las 8 piezas\bin\Debug\net7.0\El reto de las 8 piezas.pdb
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.AssemblyInfo.cs
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.dll
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\refint\El reto de las 8 piezas.dll
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.pdb
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\El reto de las 8 piezas.genruntimeconfig.cache
+C:\Users\usuario\source\repos\El reto de las 8 piezas\obj\Debug\net7.0\ref\El reto de las 8 piezas.dll

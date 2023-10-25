@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "El reto de las 8 piezas/1.0.0": {
+        "runtime": {
+          "El reto de las 8 piezas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "El reto de las 8 piezas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
